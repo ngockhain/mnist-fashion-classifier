@@ -1,7 +1,7 @@
 # Mnist-fashion-classifier
 Classifier object with mnist dataset
 ## Process of improvement model to get the best model.
-How does student do this lab?<br/>
+### How does student do this lab?<br/>
 -> Student uses 4 algorithms to train on train set and evaluate on test set. Student change the parameters on each algorithm to get the best accuracy.
 - 4 algorithms used is: SGDClassifier, ExtraTreeClassifier, DecisionTreeClassifier, MLPClassifier.
 ### 1. SGDClassifier:
